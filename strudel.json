@@ -1,0 +1,56 @@
+{
+  "_base": "https://raw.githubusercontent.com/bellicapelli0/samples/main/",
+  "cognome": "cognome/cognome.wav",
+  "dyrnae": [
+    "dyrnae/dyrnae-01.wav",
+    "dyrnae/dyrnae-02.wav",
+    "dyrnae/dyrnae-03.wav",
+    "dyrnae/dyrnae-04.wav",
+    "dyrnae/dyrnae-05.wav",
+    "dyrnae/dyrnae-06.wav",
+    "dyrnae/dyrnae-07.wav",
+    "dyrnae/dyrnae-08.wav",
+    "dyrnae/dyrnae-09.wav",
+    "dyrnae/dyrnae-10.wav",
+    "dyrnae/dyrnae-11.wav",
+    "dyrnae/dyrnae-12.wav",
+    "dyrnae/dyrnae-13.wav"
+  ],
+  "getittwisted": [
+    "get-it-twisted/nl-01.wav",
+    "get-it-twisted/nl-02.wav",
+    "get-it-twisted/nl-03.wav",
+    "get-it-twisted/nl-04.wav",
+    "get-it-twisted/nl-05.wav"
+  ],
+  "lockin": [
+    "lock-in/nl-06.wav",
+    "lock-in/nl-07.wav",
+    "lock-in/nl-08.wav",
+    "lock-in/nl-09.wav"
+  ],
+  "motivational": [
+    "motivational/nl-10.wav",
+    "motivational/nl-11.wav",
+    "motivational/nl-12.wav",
+    "motivational/nl-13.wav",
+    "motivational/nl-14.wav",
+    "motivational/nl-15.wav",
+    "motivational/nl-16.wav",
+    "motivational/nl-17.wav",
+    "motivational/nl-18.wav",
+    "motivational/nl-19.wav"
+  ],
+  "nlbot": "nlbot/nlbot.wav",
+  "samples": [
+    "samples/click.wav",
+    "samples/flip.wav",
+    "samples/letter.wav",
+    "samples/seven.wav"
+  ],
+  "technology": [
+    "technology/technology-01.wav",
+    "technology/technology-02.wav",
+    "technology/technology-03.wav"
+  ]
+}
