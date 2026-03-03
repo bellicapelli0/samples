@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/bellicapelli0/samples/master/",
+  "_base": "https://raw.githubusercontent.com/bellicapelli0/samples/main/",
   "changement": "changement/changement.wav",
   "cognome": "cognome/cognome.wav",
   "dyrnae": [
@@ -69,4 +69,5 @@
     "technology/technology-02.wav",
     "technology/technology-03.wav"
   ]
+
 }
