@@ -1,5 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/bellicapelli0/samples/master/",
+  "changement": "changement/changement.wav",
   "cognome": "cognome/cognome.wav",
   "dyrnae": [
     "dyrnae/dyrnae-01.wav",
@@ -41,12 +42,27 @@
     "motivational/nl-18.wav",
     "motivational/nl-19.wav"
   ],
+  "robaccia": [
+    "robaccia/robaccia-01.wav",
+    "robaccia/robaccia-02.wav",
+    "robaccia/robaccia-03.wav",
+    "robaccia/robaccia-04.wav",
+    "robaccia/robaccia-05.wav",
+    "robaccia/robaccia-06.wav",
+    "robaccia/robaccia-07.wav",
+    "robaccia/robaccia-08.wav",
+    "robaccia/robaccia-09.wav",
+    "robaccia/robaccia-10.wav",
+    "robaccia/robaccia-11.wav",
+    "robaccia/robaccia-12.wav"
+  ],
   "nlbot": "nlbot/nlbot.wav",
   "samples": [
     "samples/click.wav",
     "samples/flip.wav",
     "samples/letter.wav",
-    "samples/seven.wav"
+    "samples/seven.wav",
+    "samples/strings.wav"
   ],
   "technology": [
     "technology/technology-01.wav",
