@@ -17,14 +17,14 @@
     "dyrnae/dyrnae-12.wav",
     "dyrnae/dyrnae-13.wav"
   ],
-  "getittwisted": [
+  "get-it-twisted": [
     "get-it-twisted/nl-01.wav",
     "get-it-twisted/nl-02.wav",
     "get-it-twisted/nl-03.wav",
     "get-it-twisted/nl-04.wav",
     "get-it-twisted/nl-05.wav"
   ],
-  "lockin": [
+  "lock-in": [
     "lock-in/nl-06.wav",
     "lock-in/nl-07.wav",
     "lock-in/nl-08.wav",
@@ -71,3 +71,4 @@
   ]
 
 }
+
