@@ -2,6 +2,11 @@
   "_base": "https://raw.githubusercontent.com/bellicapelli0/samples/main/",
   "changement": "changement/changement.wav",
   "cognome": "cognome/cognome.wav",
+  "cash": [
+    "cash/cash-01.wav",
+    "cash/cash-02.wav",
+    "cash/cash-03.wav"
+  ],
   "dyrnae": [
     "dyrnae/dyrnae-01.wav",
     "dyrnae/dyrnae-02.wav",
